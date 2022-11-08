@@ -1,4 +1,4 @@
-const stringLength = require('./Task-1.js');
+const stringLength = require('./Task-1');
 const str = 'hello';
 
 test('string length', () => {

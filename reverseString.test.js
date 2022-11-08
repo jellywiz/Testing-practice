@@ -1,4 +1,4 @@
-const reverseString = require('./Task-2.js');
+const reverseString = require('./Task-2');
 const str = 'hello';
 
 test('reverseString function exists', () => {
